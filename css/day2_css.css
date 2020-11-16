@@ -1,0 +1,65 @@
+
+.container{
+	background-color:white;
+	width: 1140px;
+	font-size: 14px;
+	font-family: sans-serif;
+	margin-left: 20%;
+
+}
+.row{
+	background-color: green;
+}
+.row1{
+	background-color: grey;
+	color: orange;
+	text-align: center;
+	margin-top: 0;
+}
+img{
+	float: left;
+	width: 220px;
+
+}
+ ul li {
+	display: inline-block;
+	background-color: ;
+	
+}
+ul li a{
+	text-transform: uppercase;
+	color: yellow;
+	text-decoration: none;
+	margin-right: 40px;
+}
+h1{
+	font-size: 25px;
+	margin-left: 50px;
+	opacity: 0.8;
+	color: orange;
+	float: left;
+	margin-top: 25px;
+}
+.float{
+	float: left;
+	text-align: justify;
+	margin-top: 5px;
+	margin-left: 5px;
+
+	
+}
+.float2{
+	float: left;
+	text-align: justify;
+	margin-left: 10px;
+	width: 350px;
+}
+.float3{
+	float: left;
+	margin-top: 5px;
+	margin-left: 10px;
+	
+}
+h3{
+	margin-top: 10px
+}
